@@ -1,0 +1,15 @@
+install the following dependencies: 
+@babel/cli
+@babel/core
+@babel/preset-env
+babel-loader
+css-loader
+jsdoc
+mini-css-extract-plugin
+node-sass
+sass-loader
+style-loader
+webpack
+webpack-cli
+
+and npm run start
